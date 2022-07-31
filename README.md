@@ -2,7 +2,7 @@ https://dt-test-task.geka412315.now.sh/
 1 yarn
 2 yarn run dev
 # Node.js
-## Карта специальности инженер-программист
+## [Карта специальности инженер-программист](https://youtu.be/SE5aXH-yf0I)
 - [00:00:00  Введение](https://youtu.be/SE5aXH-yf0I?t=0)
 - [			00:02:21  Что такое программирование?  ](https://youtu.be/SE5aXH-yf0I?t=141)
 - [			00:05:55  Связанные понятия    ](https://youtu.be/SE5aXH-yf0I?t=355)
@@ -35,7 +35,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:07:10  Принцип NIH  ](https://youtu.be/SE5aXH-yf0I?t=4030)
 - [			01:09:12  Классификация приложений по месту запуска](https://youtu.be/SE5aXH-yf0I?t=4152)
 - [			01:12:17  Схемы и примеры](https://youtu.be/SE5aXH-yf0I?t=4337)
-## Введение в программирование (1 часть)
+## [Введение в программирование (1 часть)](https://youtu.be/5Gt61EX6HZ4)
 - [ВВЕДЕНИЕ](https://youtu.be/5Gt61EX6HZ4?t=0)
 - [			0:00:02 лекция о базовых понятиях для начинающих](https://youtu.be/5Gt61EX6HZ4?t=2)
 - [			0:01:43 что-то уже знаете / слышали](https://youtu.be/5Gt61EX6HZ4?t=103)
@@ -73,7 +73,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			1:10:37 цикл / Loop 1:10:52 итерирование 1:11:40 функциональное программирование](https://youtu.be/5Gt61EX6HZ4?t=4237)
 - [			1:13:05 условие / Conditional statements / ветвление](https://youtu.be/5Gt61EX6HZ4?t=4385)
 - [			1:14:54 парадигма программирования / Programming paradigm](https://youtu.be/5Gt61EX6HZ4?t=4494)
-## Семинар: Обсуждение плана и материалов курса «Основы программирования»
+## [Семинар: Обсуждение плана и материалов курса «Основы программирования»](https://youtu.be/bQMTbRWrteU)
 - [0:15 - вопрос по операционным системам](https://youtu.be/bQMTbRWrteU?t=15)
 - [			3:35 - какой язык посоветуете из функционального программирования](https://youtu.be/bQMTbRWrteU?t=215)
 - [			4:40 - время нужное для прохождения курса](https://youtu.be/bQMTbRWrteU?t=280)
@@ -99,9 +99,9 @@ https://dt-test-task.geka412315.now.sh/
 - [			39:35 - знание математики](https://youtu.be/bQMTbRWrteU?t=2375)
 - [			43:10 - сложные вопросы CS в курсе](https://youtu.be/bQMTbRWrteU?t=2590)
 - [			46:00 - как происходит проверка задач для допуска к экзамену](https://youtu.be/bQMTbRWrteU?t=2760)
-## Настройка среды: Node.js, npm, git, eslint
+## [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
 - [](https://youtu.be/hSyA7tcNaCE?t=0)
-## Базовый синтаксис JavaScript
+## [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
 - [00:00:00  Введение](https://youtu.be/xJn3k1f4BiM?t=0)
 - [			-------------------------------------  Многоразовые абстракции  (Reusable abstractions)  -----------------------------](https://youtu.be/xJn3k1f4BiM?t=0)
 - [			00:03:02  Идентификаторы (identifiers: const, let, arguments, object property)](https://youtu.be/xJn3k1f4BiM?t=182)
@@ -120,7 +120,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:18:13  Способы объявления переменных ](https://youtu.be/xJn3k1f4BiM?t=4693)
 - [			01:18:24  Скалярные типы переменных (string, number, boolean)](https://youtu.be/xJn3k1f4BiM?t=4704)
 - [			01:19:12  Структурные/ссылочные типы переменных (function, array, object)](https://youtu.be/xJn3k1f4BiM?t=4752)
-## Базовый синтаксис JavaScript, продолжение
+## [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
 - [---------------------------------------------------------- Базовый обзор типов данных -----------------------------------------------](https://youtu.be/qa-XleqA0JU?t=0)
 - [			00:01:34  Number (integer / float)](https://youtu.be/qa-XleqA0JU?t=94)
 - [			00:02:11  String ](https://youtu.be/qa-XleqA0JU?t=131)
@@ -149,11 +149,11 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:56:30  Операторы сравнения ](https://youtu.be/qa-XleqA0JU?t=3390)
 - [			01:01:20  Очередность операторов (Operator precedence)](https://youtu.be/qa-XleqA0JU?t=3680)
 - [			01:13:25  Оператор Switch](https://youtu.be/qa-XleqA0JU?t=4405)
-## Семинар: Базовый синтаксис языка JavaScript
+## [Семинар: Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 - [](https://youtu.be/PGqjTXQe_qw?t=0)
-## Семинар: автоматическая проверка лабораторных работ
+## [Семинар: автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
 - [](https://youtu.be/M4KpG0LEAyA?t=0)
-## Введение в программирование (2 часть)
+## [Введение в программирование (2 часть)](https://youtu.be/PzlLXQ3RaDs)
 - [0:00:01 введение](https://youtu.be/PzlLXQ3RaDs?t=1)
 - [			ПОНЯТИЯ](https://youtu.be/PzlLXQ3RaDs?t=0)
 - [			0:01:45 процедура или подпрограмма / Procedure or Subroutine](https://youtu.be/PzlLXQ3RaDs?t=105)
@@ -185,7 +185,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			1:16:47 класс и прототип 1:17:37 аллокирование значений в куче и стеке](https://youtu.be/PzlLXQ3RaDs?t=4607)
 - [			1:18:43 сборщик мусора](https://youtu.be/PzlLXQ3RaDs?t=4723)
 - [			1:20:29 терминология на английском и русском](https://youtu.be/PzlLXQ3RaDs?t=4829)
-## Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript
+## [Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
 - [00:00:00  Введение ](https://youtu.be/pn5myCmpV2U?t=0)
 - [			-----------------------------------------------  Способы определения функций  ---------------------------------------------------](https://youtu.be/pn5myCmpV2U?t=0)
 - [			00:11:22  Функция объявление (Declaration)](https://youtu.be/pn5myCmpV2U?t=682)
@@ -209,7 +209,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:08:41  Замыкание: chainning   ](https://youtu.be/pn5myCmpV2U?t=4121)
 - [			01:11:55  Замыкание: summator  ](https://youtu.be/pn5myCmpV2U?t=4315)
 - [			01:14:16  Замыкание: recursion](https://youtu.be/pn5myCmpV2U?t=4456)
-## Массивы, объекты, классы, прототипы в JavaScript
+## [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
 - [00:00:00  Объекты](https://youtu.be/VBMGnAPfmsY?t=0)
 - [			00:11:01  Массивы](https://youtu.be/VBMGnAPfmsY?t=661)
 - [			00:13:29  Cериализация объекта ](https://youtu.be/VBMGnAPfmsY?t=809)
@@ -239,7 +239,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:23:52  Присваивание методов внутри конструктора, при прототипном подходе ](https://youtu.be/VBMGnAPfmsY?t=5032)
 - [			01:25:10  Get/Set класса  ](https://youtu.be/VBMGnAPfmsY?t=5110)
 - [			01:27:00  Пример](https://youtu.be/VBMGnAPfmsY?t=5220)
-## Языки программирования: обзор, сравнение, выбор
+## [Языки программирования: обзор, сравнение, выбор](https://youtu.be/enHA1CRkJe0)
 - [0:00:02 обзорная лекция о классификации ЯП](https://youtu.be/enHA1CRkJe0?t=2)
 - [			ОСОБЕННОСТИ СИНТАКСИСА И СЕМАНТИКИ](https://youtu.be/enHA1CRkJe0?t=0)
 - [			0:00:53 типизация: статическая / динамическая](https://youtu.be/enHA1CRkJe0?t=53)
@@ -274,7 +274,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			1:13:36 тестирование](https://youtu.be/enHA1CRkJe0?t=4416)
 - [			1:14:20 мобильные платформы](https://youtu.be/enHA1CRkJe0?t=4460)
 - [			1:16:10 игры, графика](https://youtu.be/enHA1CRkJe0?t=4570)
-## JavaScript: Ответы на вопросы
+## [JavaScript: Ответы на вопросы](https://youtu.be/wqkQ6eslyzY)
 - [0:00:02 введение](https://youtu.be/wqkQ6eslyzY?t=2)
 - [			0:00:41 разделение ЯП по модели работы с памятью](https://youtu.be/wqkQ6eslyzY?t=41)
 - [			ВОПРОСЫ](https://youtu.be/wqkQ6eslyzY?t=0)
@@ -287,7 +287,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			0:40:47 константы и ключевое слово const](https://youtu.be/wqkQ6eslyzY?t=2447)
 - [			0:45:48 зачем учить именно js](https://youtu.be/wqkQ6eslyzY?t=2748)
 - [			0:59:28 typescript - js с типами? Развитость инфраструктуры ts](https://youtu.be/wqkQ6eslyzY?t=3568)
-## Частичное применение и каррирование в JavaScript
+## [Частичное применение и каррирование в JavaScript](https://youtu.be/ND8KQ5xjk7o)
 - [-----------------------------------------------  Частичное применение ( Partial application ) ---------------------------------------------](https://youtu.be/ND8KQ5xjk7o?t=0)
 - [			00:00:00  Замыкание  ](https://youtu.be/ND8KQ5xjk7o?t=0)
 - [			00:04:54  Лямбда- функция ](https://youtu.be/ND8KQ5xjk7o?t=294)
@@ -308,7 +308,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:57:40  Композиция асинхронных функций  ](https://youtu.be/ND8KQ5xjk7o?t=3460)
 - [			----------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://youtu.be/ND8KQ5xjk7o?t=0)
 - [			01:01:27  Обобщение](https://youtu.be/ND8KQ5xjk7o?t=3687)
-## Функции высшего порядка, колбеки, события на JavaScript
+## [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
 - [-----------------------------------  Функции высшего порядка (HigherOrderFunctions)----------------------------------](https://youtu.be/1vqATwbGHnc?t=0)
 - [			00:00:00  Определение ](https://youtu.be/1vqATwbGHnc?t=0)
 - [			00:02:03  Математическая функция ](https://youtu.be/1vqATwbGHnc?t=123)
@@ -330,7 +330,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:53:45  Event-imitter  ](https://youtu.be/1vqATwbGHnc?t=3225)
 - [			00:57:48  Deferred object (отложенный объект)](https://youtu.be/1vqATwbGHnc?t=3468)
 - [			01:01:31  Errors](https://youtu.be/1vqATwbGHnc?t=3691)
-## Работа со строками, шаблонами и юникодом в JavaScript
+## [Работа со строками, шаблонами и юникодом в JavaScript](https://youtu.be/GcopcHQkA8M)
 - [00:00:00  Unicode строки](https://youtu.be/GcopcHQkA8M?t=0)
 - [			00:12:07  Обычные строки](https://youtu.be/GcopcHQkA8M?t=727)
 - [			00:17:03  Методы строки  ](https://youtu.be/GcopcHQkA8M?t=1023)
@@ -341,7 +341,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:40:45  Добавление функции для шаблонизирующей строки](https://youtu.be/GcopcHQkA8M?t=2445)
 - [			00:44:27  Пример  ](https://youtu.be/GcopcHQkA8M?t=2667)
 - [			00:48:29  Библиотека  Concolor.js](https://youtu.be/GcopcHQkA8M?t=2909)
-## Регулярные выражения и парсинг в JavaScript
+## [Регулярные выражения и парсинг в JavaScript](https://youtu.be/-ef2E0ozxao)
 - [00:00:00  Введение](https://youtu.be/-ef2E0ozxao?t=0)
 - [			00:10:30  Синтаксис регулярных выражений     ](https://youtu.be/-ef2E0ozxao?t=630)
 - [			00:12:54  Задание регулярного выражения  ](https://youtu.be/-ef2E0ozxao?t=774)
@@ -352,7 +352,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:50:43  Метод replace с аргументом функции  ](https://youtu.be/-ef2E0ozxao?t=3043)
 - [			00:53:28  Метод search  ](https://youtu.be/-ef2E0ozxao?t=3208)
 - [			00:55:05  Обобщение](https://youtu.be/-ef2E0ozxao?t=3305)
-## Примеси, обертки, декораторы, мемоизация в JavaScript
+## [Примеси, обертки, декораторы, мемоизация в JavaScript](https://youtu.be/oRQ0kQr1N-U)
 - [---------------------------------------------------- Функции-обертки  (Wrappers) ------------------------------------------------](https://youtu.be/oRQ0kQr1N-U?t=0)
 - [			00:00:00  Синхронная функция-обертка  ](https://youtu.be/oRQ0kQr1N-U?t=0)
 - [			00:02:55  Синхронная универсальная функция-обертка   ](https://youtu.be/oRQ0kQr1N-U?t=175)
@@ -379,12 +379,12 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:25:35  Асинхронная мемоизация ](https://youtu.be/oRQ0kQr1N-U?t=5135)
 - [			01:31:10  Преобразование аргументов и ключей в  hash-функцию](https://youtu.be/oRQ0kQr1N-U?t=5470)
 - [			01:33:32  Реализация сложной мемоизации](https://youtu.be/oRQ0kQr1N-U?t=5612)
-## Консоль и командная строка в JavaScript и Node.js
+## [Консоль и командная строка в JavaScript и Node.js](https://youtu.be/5aSZyKi5BmE)
 - [1:20 console](https://youtu.be/5aSZyKi5BmE?t=80)
 - [			16:00 readline](https://youtu.be/5aSZyKi5BmE?t=960)
 - [			21:35 cli](https://youtu.be/5aSZyKi5BmE?t=1295)
 - [			31:15 делаем красивый login screen](https://youtu.be/5aSZyKi5BmE?t=1875)
-## Чеининг функций и объектов, обработка ошибок в JavaScript
+## [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
 - [--------------------------------------------------------------  Чеининг  ----------------------------------------------------------](https://youtu.be/PfuEfIiLX34?t=0)
 - [			00:00:00  Введение ](https://youtu.be/PfuEfIiLX34?t=0)
 - [			00:01:10  Чеининг через синтаксис вызова функций  ](https://youtu.be/PfuEfIiLX34?t=70)
@@ -405,7 +405,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:16:14  Корректное возвращение ошибок      ](https://youtu.be/PfuEfIiLX34?t=4574)
 - [			01:20:03  Обработка ошибок c promise  ](https://youtu.be/PfuEfIiLX34?t=4803)
 - [			01:23:58  Обработка ошибок c async-await](https://youtu.be/PfuEfIiLX34?t=5038)
-## Таймеры, таймауты, EventEmitter в JavaScript и Node.js
+## [Таймеры, таймауты, EventEmitter в JavaScript и Node.js](https://youtu.be/LK2jveAnRNg)
 - [0:30 callback sync/async](https://youtu.be/LK2jveAnRNg?t=30)
 - [			1:35 временная задержка sleep.js](https://youtu.be/LK2jveAnRNg?t=95)
 - [			5:35 await-sleep.js](https://youtu.be/LK2jveAnRNg?t=335)
@@ -428,7 +428,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			57:10 methods.js](https://youtu.be/LK2jveAnRNg?t=3430)
 - [			1:06:35 min.js](https://youtu.be/LK2jveAnRNg?t=3995)
 - [			1:12:31 prod.js](https://youtu.be/LK2jveAnRNg?t=4351)
-## Итерирование, циклы и итераторы в JavaScript
+## [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
 - [00:00:00  Цикл for](https://youtu.be/lq3b5_UGJas?t=0)
 - [			00:02:45  Цикл while](https://youtu.be/lq3b5_UGJas?t=165)
 - [			00:03:16  Цикл do while  ](https://youtu.be/lq3b5_UGJas?t=196)
@@ -445,7 +445,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:28:49  Итерирование по объекту  ](https://youtu.be/lq3b5_UGJas?t=1729)
 - [			00:37:32  Обратный итератор    ](https://youtu.be/lq3b5_UGJas?t=2252)
 - [			00:40:42  Асинхронный итератор](https://youtu.be/lq3b5_UGJas?t=2442)
-## Архитектурный подход к программированию
+## [Архитектурный подход к программированию](https://youtu.be/d_vyO2CkiOc)
 - [00:00:00 Когда нужна архитектура](https://youtu.be/d_vyO2CkiOc?t=0)
 - [			00:06:07 Принятие решений](https://youtu.be/d_vyO2CkiOc?t=367)
 - [			00:09:58 Типы связывания](https://youtu.be/d_vyO2CkiOc?t=598)
@@ -460,22 +460,22 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:16:45 Современные возможности и требования ](https://youtu.be/d_vyO2CkiOc?t=4605)
 - [			01:25:20 Топологии](https://youtu.be/d_vyO2CkiOc?t=5120)
 - [			01:30:45 Итог](https://youtu.be/d_vyO2CkiOc?t=5445)
-## Функциональное программирование на JavaScript
+## [Функциональное программирование на JavaScript](https://youtu.be/0JxSs_GcvbQ)
 - [](https://youtu.be/0JxSs_GcvbQ?t=0)
-## Реактивное программирование на JavaScript
+## [Реактивное программирование на JavaScript](https://youtu.be/7MH8-qQc-48)
 - [0:00 введение](https://youtu.be/7MH8-qQc-48?t=0)
 - [			3:00 imperative.js](https://youtu.be/7MH8-qQc-48?t=180)
 - [			4:00 set-get.js](https://youtu.be/7MH8-qQc-48?t=240)
 - [			7:15 proxy.js](https://youtu.be/7MH8-qQc-48?t=435)
 - [			23:07 observer.js](https://youtu.be/7MH8-qQc-48?t=1387)
-## Асинхронное программирование на callback`ах в JavaScript
+## [Асинхронное программирование на callback`ах в JavaScript](https://youtu.be/z8Hg6zgi3yQ)
 - [1:20 пример callback функции](https://youtu.be/z8Hg6zgi3yQ?t=80)
 - [			2:40 пример последовательного исполнения callback функций](https://youtu.be/z8Hg6zgi3yQ?t=160)
 - [			5:52 пример параллельного исполнения async функций c использованием wrapAsync](https://youtu.be/z8Hg6zgi3yQ?t=352)
 - [			15:18 пример последовательного исполнения async функций c использованием wrapAsync](https://youtu.be/z8Hg6zgi3yQ?t=918)
 - [			19:05 chain исполнение async функций](https://youtu.be/z8Hg6zgi3yQ?t=1145)
 - [			41:16 где можно встретить асинхронные функции](https://youtu.be/z8Hg6zgi3yQ?t=2476)
-## Проекции и отображения наборов данных в JavaScript
+## [Проекции и отображения наборов данных в JavaScript](https://youtu.be/lwJCq9inky8)
 - [00:00:00  Введение ](https://youtu.be/lwJCq9inky8?t=0)
 - [			00:01:50  Простая проекция набора данных    ](https://youtu.be/lwJCq9inky8?t=110)
 - [			00:09:23  Расширенная проекция набора данных  ](https://youtu.be/lwJCq9inky8?t=563)
@@ -489,7 +489,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:53:25  Вывод      ](https://youtu.be/lwJCq9inky8?t=3205)
 - [			00:58:08  Оптимизация](https://youtu.be/lwJCq9inky8?t=3488)
 - [			01:00:00  Обобщение](https://youtu.be/lwJCq9inky8?t=3600)
-## Коллекции, множества, хештаблицы в JavaScript
+## [Коллекции, множества, хештаблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
 - [------------------------------------------------------- Коллекции (Сollections)  --------------------------------------------------------](https://youtu.be/hN0wsq5LNOc?t=0)
 - [			00:00:00  Введение](https://youtu.be/hN0wsq5LNOc?t=0)
 - [			00:01:35  Массивы ](https://youtu.be/hN0wsq5LNOc?t=95)
@@ -514,7 +514,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:39:48  Операции над множествами ](https://youtu.be/hN0wsq5LNOc?t=2388)
 - [			00:42:32  WeakSet    ](https://youtu.be/hN0wsq5LNOc?t=2552)
 - [			00:47:15  Обобщение](https://youtu.be/hN0wsq5LNOc?t=2835)
-## Неблокирующее асинхронное итерирование в JavaScript
+## [Неблокирующее асинхронное итерирование в JavaScript](https://youtu.be/wYA2cIRYLoA)
 - [1:02 блокирующее итерирование по массиву](https://youtu.be/wYA2cIRYLoA?t=62)
 - [			3:24 блокирующее итерирование с помощью for await](https://youtu.be/wYA2cIRYLoA?t=204)
 - [			4:47 неблокирующее итерирование с помощью setTimeout](https://youtu.be/wYA2cIRYLoA?t=287)
@@ -522,7 +522,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			8:20 неблокирующее итерирование без задержки](https://youtu.be/wYA2cIRYLoA?t=500)
 - [			13:00 неблокирующее итерирование без задержки с помощью for await](https://youtu.be/wYA2cIRYLoA?t=780)
 - [			19:30 использование асинхронного итерирования для обычных массивов](https://youtu.be/wYA2cIRYLoA?t=1170)
-## Структуры данных: списки, стек, очередь, дэк в JavaScript
+## [Структуры данных: списки, стек, очередь, дэк в JavaScript](https://youtu.be/9KvA4hDDSjk)
 - [00:00:00  Идея структуры данных](https://youtu.be/9KvA4hDDSjk?t=0)
 - [			Списки ( list )](https://youtu.be/9KvA4hDDSjk?t=0)
 - [00:02:27  Списки на прототипах ( абстракция элемента )    ](https://youtu.be/9KvA4hDDSjk?t=147)
@@ -537,7 +537,7 @@ https://dt-test-task.geka412315.now.sh/
 - [00:29:55  Очередь](https://youtu.be/9KvA4hDDSjk?t=1795)
 - [			Дэк  (double ended queue  )    ](https://youtu.be/9KvA4hDDSjk?t=0)
 - [00:34:26  Дэк](https://youtu.be/9KvA4hDDSjk?t=2066)
-## Proxy и Symbol в JavaScript
+## [Proxy и Symbol в JavaScript](https://youtu.be/UjZjSDyi9AM)
 - [---------------------------------------------------------------------  Proxy  -------------------------------------------------------------------](https://youtu.be/UjZjSDyi9AM?t=0)
 - [			00:00:00  Определение Proxy](https://youtu.be/UjZjSDyi9AM?t=0)
 - [			00:01:20  Обращение к свойствам объекта, находящегося внутри proxy](https://youtu.be/UjZjSDyi9AM?t=80)
@@ -556,7 +556,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:34:45  Symbol.iterator  ](https://youtu.be/UjZjSDyi9AM?t=2085)
 - [			00:43:52  Symbol.toPrimitive](https://youtu.be/UjZjSDyi9AM?t=2632)
 - [			00:47:00  hideSymbol](https://youtu.be/UjZjSDyi9AM?t=2820)
-## Сериализация и десериализация в JavaScript и Node.js
+## [Сериализация и десериализация в JavaScript и Node.js](https://youtu.be/GtKPniOEzh8)
 - [00:00:00  Введение ](https://youtu.be/GtKPniOEzh8?t=0)
 - [			00:01:50  Виды сериализации ](https://youtu.be/GtKPniOEzh8?t=110)
 - [			00:02:45  Сериализатор  console.dir  ](https://youtu.be/GtKPniOEzh8?t=165)
@@ -567,9 +567,9 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:23:06  Десереализация ](https://youtu.be/GtKPniOEzh8?t=1386)
 - [			00:25:26  Сериализация объекта в бинарный формат, с помощью библиотеки  v8  ](https://youtu.be/GtKPniOEzh8?t=1526)
 - [			00:28:26  Сериализация объекта, с помощью разных библиотек](https://youtu.be/GtKPniOEzh8?t=1706)
-## Асинхронность с библиотекой async.js
+## [Асинхронность с библиотекой async.js](https://youtu.be/XQ94wQc-erU)
 - [](https://youtu.be/XQ94wQc-erU?t=0)
-## Фабрики и пулы объектов в JavaScript, factorify, poolify
+## [Фабрики и пулы объектов в JavaScript, factorify, poolify](https://youtu.be/Ax_mSvadFp8)
 - [00:00:00  Введение ](https://youtu.be/Ax_mSvadFp8?t=0)
 - [			00:02:38  Фабрика  ( factory )](https://youtu.be/Ax_mSvadFp8?t=158)
 - [			00:05:44  Фабрика прототипов      ](https://youtu.be/Ax_mSvadFp8?t=344)
@@ -585,7 +585,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:32:10  Ассинхронная работа с пулом  ](https://youtu.be/Ax_mSvadFp8?t=1930)
 - [			00:45:25  Одновременное использование factorify и poolify ](https://youtu.be/Ax_mSvadFp8?t=2725)
 - [			00:51:54  Обобщение](https://youtu.be/Ax_mSvadFp8?t=3114)
-## Подход к изучению программирования (выступление на дне факультета Информатики КПИ 12 декабря 2018)
+## [Подход к изучению программирования (выступление на дне факультета Информатики КПИ 12 декабря 2018)](https://youtu.be/zMU4ir10DMg)
 - [00:40  Что нужно знать?](https://youtu.be/zMU4ir10DMg?t=40)
 - [			03:41  Откуда брать знания    ](https://youtu.be/zMU4ir10DMg?t=221)
 - [			07:39  Проблемы отрасли  ](https://youtu.be/zMU4ir10DMg?t=459)
@@ -607,18 +607,18 @@ https://dt-test-task.geka412315.now.sh/
 - [			35:18  Чего не хватает](https://youtu.be/zMU4ir10DMg?t=2118)
 - [			36:57  Проблем много ](https://youtu.be/zMU4ir10DMg?t=2217)
 - [			40:20  ВУЗ должен знать](https://youtu.be/zMU4ir10DMg?t=2420)
-## Асинхронность на промисах, Promise, all, then, catch, race
+## [Асинхронность на промисах, Promise, all, then, catch, race](https://youtu.be/RMl4r6s1Y8M)
 - [](https://youtu.be/RMl4r6s1Y8M?t=0)
-## Типизированные массивы в JavaScript
+## [Типизированные массивы в JavaScript](https://youtu.be/tTNcqxbxhfY)
 - [](https://youtu.be/tTNcqxbxhfY?t=0)
-## Шаблон Singleton (синглтон) в JavaScript
+## [Шаблон Singleton (синглтон) в JavaScript](https://youtu.be/qdJ5yikZnfE)
 - [00:00:00  Singleton через конструктор прототипа](https://youtu.be/qdJ5yikZnfE?t=0)
 - [			00:03:27  Singleton через замыкания  ](https://youtu.be/qdJ5yikZnfE?t=207)
 - [			00:06:10  Пример singleton через замыкания ](https://youtu.be/qdJ5yikZnfE?t=370)
 - [			00:08:15  Пример singleton через замыкания в функциональном стиле  ](https://youtu.be/qdJ5yikZnfE?t=495)
 - [			00:09:23  Пример singleton через замыкания в функциональном стиле  (упрощенный)    ](https://youtu.be/qdJ5yikZnfE?t=563)
 - [			00:10:32  Создание singleton в JS](https://youtu.be/qdJ5yikZnfE?t=632)
-## Функциональные объекты, функторы и монады в JavaScript
+## [Функциональные объекты, функторы и монады в JavaScript](https://youtu.be/3Z7f0Gi8pxw)
 - [00:00:00  Определение функтора  ](https://youtu.be/3Z7f0Gi8pxw?t=0)
 - [			00:01:40  Функтор из прототипа     ](https://youtu.be/3Z7f0Gi8pxw?t=100)
 - [			00:08:17  Функтор из прототипа (упрощенный)  ](https://youtu.be/3Z7f0Gi8pxw?t=497)
@@ -630,15 +630,15 @@ https://dt-test-task.geka412315.now.sh/
 - [			00:28:37  Функциональный объект   ](https://youtu.be/3Z7f0Gi8pxw?t=1717)
 - [			00:39:44  Пример применения функционального объекта](https://youtu.be/3Z7f0Gi8pxw?t=2384)
 - [			00:45:27  Обобщение](https://youtu.be/3Z7f0Gi8pxw?t=2727)
-## Асинхронные функции, async/await, thenable, обработка ошибок
+## [Асинхронные функции, async/await, thenable, обработка ошибок](https://youtu.be/Jdf_tZuJbHI)
 - [](https://youtu.be/Jdf_tZuJbHI?t=0)
-## Асинхронные адаптеры: promisify, callbackify, asyncify...
+## [Асинхронные адаптеры: promisify, callbackify, asyncify...](https://youtu.be/76k6_YkYRmU)
 - [](https://youtu.be/76k6_YkYRmU?t=0)
-## Асинхронные коллекторы данных
+## [Асинхронные коллекторы данных](https://youtu.be/tgodt1JL6II)
 - [](https://youtu.be/tgodt1JL6II?t=0)
-## Утечки памяти в Node.js и JavaScript, сборка мусора и профилирование
+## [Утечки памяти в Node.js и JavaScript, сборка мусора и профилирование](https://youtu.be/0oZa64SB2wM)
 - [](https://youtu.be/0oZa64SB2wM?t=0)
-## Рекурсия: косвенная и хвостовая, стек, выход
+## [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
 - [00:00  Рекурсивная функция для вычисления глубины стека](https://youtu.be/W2skCjIgVKE?t=0)
 - [			03:25  Неявная рекурсия](https://youtu.be/W2skCjIgVKE?t=205)
 - [			04:52  Рекурсивная функция для вычисления степени числа](https://youtu.be/W2skCjIgVKE?t=292)
@@ -647,9 +647,9 @@ https://dt-test-task.geka412315.now.sh/
 - [			09:27  Рекурсивная функция, как аналог функции reduce     ](https://youtu.be/W2skCjIgVKE?t=567)
 - [			12:04  Оптимизация хвостовой рекурсии ](https://youtu.be/W2skCjIgVKE?t=724)
 - [			15:41  Оптимизация обычной рекурсивной функции](https://youtu.be/W2skCjIgVKE?t=941)
-## Дженерики и обобщенное программирование
+## [Дженерики и обобщенное программирование](https://youtu.be/r6W2z3DQhoI)
 - [](https://youtu.be/r6W2z3DQhoI?t=0)
-## Генераторы и асинхронные генераторы в JavaScript
+## [Генераторы и асинхронные генераторы в JavaScript](https://youtu.be/kvNm9D32s8s)
 - [00:00 Способы объявления генераторов  ](https://youtu.be/kvNm9D32s8s?t=0)
 - [			10:41 Пример генератора с yield  ](https://youtu.be/kvNm9D32s8s?t=641)
 - [			15:54 Пример генератора с yield и return  ](https://youtu.be/kvNm9D32s8s?t=954)
@@ -661,11 +661,11 @@ https://dt-test-task.geka412315.now.sh/
 - [			26:18 Метод return  ](https://youtu.be/kvNm9D32s8s?t=1578)
 - [			28:11 Метод throw](https://youtu.be/kvNm9D32s8s?t=1691)
 - [			29:05 Обобщение](https://youtu.be/kvNm9D32s8s?t=1745)
-## Итераторы и асинхронные итераторы в JavaScript
+## [Итераторы и асинхронные итераторы в JavaScript](https://youtu.be/rBGFlWpVpGs)
 - [](https://youtu.be/rBGFlWpVpGs?t=0)
-## Фасад - петтерн для скрытия сложности
+## [Фасад - петтерн для скрытия сложности](https://youtu.be/oJtBO7CystE)
 - [](https://youtu.be/oJtBO7CystE?t=0)
-## Адаптер (Adapter) - паттерн достижения совместимости
+## [Адаптер (Adapter) - паттерн достижения совместимости](https://youtu.be/cA65McLQrR8)
 - [0:00 введение](https://youtu.be/cA65McLQrR8?t=0)
 - [			1:30 adapter на prototype](https://youtu.be/cA65McLQrR8?t=90)
 - [			3:57 adapter на class](https://youtu.be/cA65McLQrR8?t=237)
@@ -675,28 +675,28 @@ https://dt-test-task.geka412315.now.sh/
 - [			8:10 adapter на interface](https://youtu.be/cA65McLQrR8?t=490)
 - [			13:45 adapter на events](https://youtu.be/cA65McLQrR8?t=825)
 - [			16:00 выводы](https://youtu.be/cA65McLQrR8?t=960)
-## Стратегия (Strategy) - выбор взаимозаменяемого поведения
+## [Стратегия (Strategy) - выбор взаимозаменяемого поведения](https://youtu.be/hO8VSVv0NqM)
 - [0:00 введение](https://youtu.be/hO8VSVv0NqM?t=0)
 - [			3:40 strategy на class](https://youtu.be/hO8VSVv0NqM?t=220)
 - [			15:04 strategy на prototype](https://youtu.be/hO8VSVv0NqM?t=904)
 - [			16:14 strategy на function](https://youtu.be/hO8VSVv0NqM?t=974)
 - [			20:22 strategy с примером работы над массивом](https://youtu.be/hO8VSVv0NqM?t=1222)
 - [			24:07 обобщение](https://youtu.be/hO8VSVv0NqM?t=1447)
-## Линзы в JavaScript - функциональные аналоги геттера и сеттера
+## [Линзы в JavaScript - функциональные аналоги геттера и сеттера](https://youtu.be/IBF5gFU6G-o)
 - [](https://youtu.be/IBF5gFU6G-o?t=0)
-## Перечислимый тип (enum) в JavaScript и TypeScript
+## [Перечислимый тип (enum) в JavaScript и TypeScript](https://youtu.be/BXiKebOIAGI)
 - [](https://youtu.be/BXiKebOIAGI?t=0)
-## Графы и запросы к графовым структурам на JavaScript
+## [Графы и запросы к графовым структурам на JavaScript](https://youtu.be/a0W0T8Yqw3s)
 - [](https://youtu.be/a0W0T8Yqw3s?t=0)
-## Паттерн Команда (Command) действие и параметры как объект
+## [Паттерн Команда (Command) действие и параметры как объект](https://youtu.be/vER0vYL4hM4)
 - [](https://youtu.be/vER0vYL4hM4?t=0)
-## Тестирование: юниттесты с примерами на JavaScript
+## [Тестирование: юниттесты с примерами на JavaScript](https://youtu.be/CszugIag2TA)
 - [](https://youtu.be/CszugIag2TA?t=0)
-## Инверсия управления и внедрение зависимостей в Node.js
+## [Инверсия управления и внедрение зависимостей в Node.js](https://youtu.be/Fz86Fdjz-LM)
 - [](https://youtu.be/Fz86Fdjz-LM?t=0)
-## Слои, связанность и связность кода в JavaScript
+## [Слои, связанность и связность кода в JavaScript](https://youtu.be/A3RpwNlVeyY)
 - [](https://youtu.be/A3RpwNlVeyY?t=0)
-## Измерение производительности кода и оптимизация в JavaScript и Node.js
+## [Измерение производительности кода и оптимизация в JavaScript и Node.js](https://youtu.be/sanq2X7Re8o)
 - [00:00:00  Введение ](https://youtu.be/sanq2X7Re8o?t=0)
 - [			00:05:27  Console.time и console.timeEnd ](https://youtu.be/sanq2X7Re8o?t=327)
 - [			00:09:05  New Date( ).getTime( ) ](https://youtu.be/sanq2X7Re8o?t=545)
@@ -729,27 +729,27 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:10:47  Сравнение итерирования с помощью  forEarch и  for (...of...)](https://youtu.be/sanq2X7Re8o?t=4247)
 - [			01:11:08  Результаты теста](https://youtu.be/sanq2X7Re8o?t=4268)
 - [			01:11:31  Обобщение](https://youtu.be/sanq2X7Re8o?t=4291)
-## Слой доступа к данным, курсор, транзакция
+## [Слой доступа к данным, курсор, транзакция](https://youtu.be/CRcSWtWVvrA)
 - [](https://youtu.be/CRcSWtWVvrA?t=0)
-## HTTP запросы в браузере и Node.js: XMLHttpRequest, fetch
+## [HTTP запросы в браузере и Node.js: XMLHttpRequest, fetch](https://youtu.be/wMMki2FEYGY)
 - [](https://youtu.be/wMMki2FEYGY?t=0)
-## Метапрограммирование с примерами на JavaScript
+## [Метапрограммирование с примерами на JavaScript](https://youtu.be/Ed9onRv4G5Y)
 - [](https://youtu.be/Ed9onRv4G5Y?t=0)
-## Тестирование: системное и интеграционное тестирование на JavaScript
+## [Тестирование: системное и интеграционное тестирование на JavaScript](https://youtu.be/OuKu_6H_6gE)
 - [](https://youtu.be/OuKu_6H_6gE?t=0)
-## Отмена асинхронных операций, cancellable callback and Promise в JavaScript
+## [Отмена асинхронных операций, cancellable callback and Promise в JavaScript](https://youtu.be/T8fXlnqI4Ws)
 - [](https://youtu.be/T8fXlnqI4Ws?t=0)
-## Асинхронная композиция функций на JavaScript
+## [Асинхронная композиция функций на JavaScript](https://youtu.be/3ZCrMlMpOrM)
 - [](https://youtu.be/3ZCrMlMpOrM?t=0)
-## Thenable и легковесный await в JavaScript
+## [Thenable и легковесный await в JavaScript](https://youtu.be/DXp__1VNIvI)
 - [](https://youtu.be/DXp__1VNIvI?t=0)
-## Конкурентная асинхронная очередь на JavaScript
+## [Конкурентная асинхронная очередь на JavaScript](https://youtu.be/Lg46AH8wFvg)
 - [](https://youtu.be/Lg46AH8wFvg?t=0)
-## Паттерн Revealing Constructor - открытый конструктор
+## [Паттерн Revealing Constructor - открытый конструктор](https://youtu.be/leR5sXRkuJI)
 - [](https://youtu.be/leR5sXRkuJI?t=0)
-## Модель акторов для параллельных вычислений
+## [Модель акторов для параллельных вычислений](https://youtu.be/xp5MVKEqxY4)
 - [](https://youtu.be/xp5MVKEqxY4?t=0)
-## Have Objects Failed? Или что не так с ООП?
+## [Have Objects Failed? Или что не так с ООП?](https://youtu.be/4yO5OS0vPSw)
 - [1:46 Присвоенные идеи ООП](https://youtu.be/4yO5OS0vPSw?t=106)
 - [			11:47 Притянутые достоинства ООП](https://youtu.be/4yO5OS0vPSw?t=707)
 - [			22:06 Проблемы ООП](https://youtu.be/4yO5OS0vPSw?t=1326)
@@ -757,9 +757,9 @@ https://dt-test-task.geka412315.now.sh/
 - [			56:44 Подходящие области для ООП](https://youtu.be/4yO5OS0vPSw?t=3404)
 - [			1:03:51 Неподходящие области для ООП](https://youtu.be/4yO5OS0vPSw?t=3831)
 - [			1:11:30 Заключение](https://youtu.be/4yO5OS0vPSw?t=4290)
-## Интроспекция и рефлексия в JavaScript
+## [Интроспекция и рефлексия в JavaScript](https://youtu.be/yvW1PjUVeM0)
 - [](https://youtu.be/yvW1PjUVeM0?t=0)
-## История развития языков программирования
+## [История развития языков программирования](https://youtu.be/qqz0VSaNxuw)
 - [0:00:02 введение](https://youtu.be/qqz0VSaNxuw?t=2)
 - [			0:00:57 карты для механических машин](https://youtu.be/qqz0VSaNxuw?t=57)
 - [			0:01:50 карты для электронных машин](https://youtu.be/qqz0VSaNxuw?t=110)
@@ -800,7 +800,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			1:12:58 асинхронная функция в javascript](https://youtu.be/qqz0VSaNxuw?t=4378)
 - [			1:15:23 строгая типизация влияет на скорость?](https://youtu.be/qqz0VSaNxuw?t=4523)
 - [			1:16:13 выведение и проверка типов в IDE](https://youtu.be/qqz0VSaNxuw?t=4573)
-## Парадигмы программирования (обзор)
+## [Парадигмы программирования (обзор)](https://youtu.be/Yk1sxLVHfjs)
 - [00:20 парадигма](https://youtu.be/Yk1sxLVHfjs?t=20)
 - [			02:19 императивная программа: пошаговое исполнение на примере JavaScript](https://youtu.be/Yk1sxLVHfjs?t=139)
 - [			03:22 пошаговое исполнение характерно для неструктурных ЯП: Assembly language, Basic](https://youtu.be/Yk1sxLVHfjs?t=202)
@@ -826,7 +826,7 @@ https://dt-test-task.geka412315.now.sh/
 - [			47:27 где хранятся классы](https://youtu.be/Yk1sxLVHfjs?t=2847)
 - [			47:54 у каждой парадигмы свои шаблоны программирования](https://youtu.be/Yk1sxLVHfjs?t=2874)
 - [			48:52 когда используется функциональное программирование](https://youtu.be/Yk1sxLVHfjs?t=2932)
-## Примеси, обертки, декораторы, мемоизация
+## [Примеси, обертки, декораторы, мемоизация](https://youtu.be/2h9syXN5wO0)
 - [---------------------------------------------------- Функции-обертки  (Wrappers) ------------------------------------------------](https://youtu.be/2h9syXN5wO0?t=0)
 - [			00:00:00  Синхронная функция-обертка  ](https://youtu.be/2h9syXN5wO0?t=0)
 - [			00:02:55  Синхронная универсальная функция-обертка   ](https://youtu.be/2h9syXN5wO0?t=175)
@@ -853,13 +853,13 @@ https://dt-test-task.geka412315.now.sh/
 - [			01:25:35  Асинхронная мемоизация ](https://youtu.be/2h9syXN5wO0?t=5135)
 - [			01:31:10  Преобразование аргументов и ключей в  hash-функцию](https://youtu.be/2h9syXN5wO0?t=5470)
 - [			01:33:32  Реализация сложной мемоизации](https://youtu.be/2h9syXN5wO0?t=5612)
-## Ответы на вопросы по курсу "Основы программирования" 2019-2020
+## [Ответы на вопросы по курсу "Основы программирования" 2019-2020](https://youtu.be/TY6nDW7aYys)
 - [](https://youtu.be/TY6nDW7aYys?t=0)
-## Антипаттерны процедурного программирования
+## [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
 - [](https://youtu.be/cTv7V22mkwE?t=0)
-## Семинар: выполнение лабораторных работ на JavaSript по курсу "Основы программирования"
+## [Семинар: выполнение лабораторных работ на JavaSript по курсу "Основы программирования"](https://youtu.be/ikUOyFPzdJw)
 - [](https://youtu.be/ikUOyFPzdJw?t=0)
-## Массивы в JavaScript (методы Array)
+## [Массивы в JavaScript (методы Array)](https://youtu.be/D1kfYBkX9FE)
 - [00:00 Конструкция массива](https://youtu.be/D1kfYBkX9FE?t=0)
 - [			09:58 Метод concat](https://youtu.be/D1kfYBkX9FE?t=598)
 - [			11:00 Методы every и some  ](https://youtu.be/D1kfYBkX9FE?t=660)
@@ -873,29 +873,29 @@ https://dt-test-task.geka412315.now.sh/
 - [			19:29 Метод slice](https://youtu.be/D1kfYBkX9FE?t=1169)
 - [			21:49 Метод splice](https://youtu.be/D1kfYBkX9FE?t=1309)
 - [			23:27 Методы reduce и reduceRight](https://youtu.be/D1kfYBkX9FE?t=1407)
-## Code Review: как это и зачем
+## [Code Review: как это и зачем](https://youtu.be/EKL6NiIQ6ZU)
 - [](https://youtu.be/EKL6NiIQ6ZU?t=0)
-## Семинар: Code Review, ответы на вопросы
+## [Семинар: Code Review, ответы на вопросы](https://youtu.be/AgH4OAKbmkM)
 - [](https://youtu.be/AgH4OAKbmkM?t=0)
-## Мономорфный и полиморфный код, инлайн-кэш, скрытые классы в JavaScript
+## [Мономорфный и полиморфный код, инлайн-кэш, скрытые классы в JavaScript](https://youtu.be/9JUY3prnCQ4)
 - [](https://youtu.be/9JUY3prnCQ4?t=0)
-## Ассоциация, агрегация и композиция объектов в JavaScript
+## [Ассоциация, агрегация и композиция объектов в JavaScript](https://youtu.be/tOIcBrzezK0)
 - [](https://youtu.be/tOIcBrzezK0?t=0)
-## Рефакторинг: причины, цели, техники и процесс
+## [Рефакторинг: причины, цели, техники и процесс](https://youtu.be/z73wmpdweQ4)
 - [](https://youtu.be/z73wmpdweQ4?t=0)
-## Принцип подстановки Барбары Лисков
+## [Принцип подстановки Барбары Лисков](https://youtu.be/RbhYxygxroc)
 - [](https://youtu.be/RbhYxygxroc?t=0)
-## Композиция функций (pipe, compose) в JavaScript
+## [Композиция функций (pipe, compose) в JavaScript](https://youtu.be/xS9FicVrOTI)
 - [](https://youtu.be/xS9FicVrOTI?t=0)
-## Примеси в JavaScript: mixin, extend, Object.assign, class λ-mixin
+## [Примеси в JavaScript: mixin, extend, Object.assign, class λ-mixin](https://youtu.be/NZMrJ2adEyY)
 - [](https://youtu.be/NZMrJ2adEyY?t=0)
-## Прототипное программирование и прототипное наследование в JavaScript
+## [Прототипное программирование и прототипное наследование в JavaScript](https://youtu.be/SzaXTW2qcJE)
 - [](https://youtu.be/SzaXTW2qcJE?t=0)
-## Мемоизация функций: memoize в JavaScript
+## [Мемоизация функций: memoize в JavaScript](https://youtu.be/H6S8QJo2Qxg)
 - [](https://youtu.be/H6S8QJo2Qxg?t=0)
-## Функции-обертки: Wrappers в JavaScript
+## [Функции-обертки: Wrappers в JavaScript](https://youtu.be/En7pWi2fSzs)
 - [](https://youtu.be/En7pWi2fSzs?t=0)
-## Новое в JavaScript: ES.Next, ECMAScript 2020, ES11, ES10, ES9, ES8, ES7, ES6, ES2020, ES2019
+## [Новое в JavaScript: ES.Next, ECMAScript 2020, ES11, ES10, ES9, ES8, ES7, ES6, ES2020, ES2019](https://youtu.be/fUjHLj8bq_Y)
 - [00:00  ECMA Script versions](https://youtu.be/fUjHLj8bq_Y?t=0)
 - [			09:40  Array.proptotype.includes ](https://youtu.be/fUjHLj8bq_Y?t=580)
 - [			10:55  Array.proptotype.flat   ](https://youtu.be/fUjHLj8bq_Y?t=655)
@@ -920,13 +920,13 @@ https://dt-test-task.geka412315.now.sh/
 - [			32:11  Promise.finaly   ](https://youtu.be/fUjHLj8bq_Y?t=1931)
 - [			33:22  Promise.allSettled  ](https://youtu.be/fUjHLj8bq_Y?t=2002)
 - [			36:18  More features](https://youtu.be/fUjHLj8bq_Y?t=2178)
-## Вступительная лекция по инженерии программного обеспечения (КПИ 1 курс) 2021-09-01
+## [Вступительная лекция по инженерии программного обеспечения (КПИ 1 курс) 2021-09-01](https://youtu.be/vWi6KyG078g)
 - [](https://youtu.be/vWi6KyG078g?t=0)
-## Автоматное программирование c примерами на JavaScript
+## [Автоматное программирование c примерами на JavaScript](https://youtu.be/mxz7_zcip0c)
 - [](https://youtu.be/mxz7_zcip0c?t=0)
-## Контрактное программирование с примерами на JavaScript и Node.js
+## [Контрактное программирование с примерами на JavaScript и Node.js](https://youtu.be/K5_kSUvbGEQ)
 - [](https://youtu.be/K5_kSUvbGEQ?t=0)
-## JavaScript - Практические задачи #1: Пример исправления, лайвкодинг, оптимизация и рефакторинг
+## [JavaScript - Практические задачи #1: Пример исправления, лайвкодинг, оптимизация и рефакторинг](https://youtu.be/CRmjViLEE9E)
 - [](https://youtu.be/CRmjViLEE9E?t=0)
-## JavaScript и Node.js: Добавь в Github личную карту знаний
+## [JavaScript и Node.js: Добавь в Github личную карту знаний](https://youtu.be/gDUGZsw2N2g)
 - [](https://youtu.be/gDUGZsw2N2g?t=0)

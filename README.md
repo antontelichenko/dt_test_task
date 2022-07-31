@@ -1,12 +1,9 @@
 https://dt-test-task.geka412315.now.sh/
 1 yarn
 2 yarn run dev
-
-    # Functional programming
-    
-    
-    ## Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript
-    - [00:00:00  Введение ](https://youtu.be/pn5myCmpV2U)
+# Functional programming
+## Функции, лямбды (стрелочные функции), контексты, замыкания в JavaScript
+- [00:00:00  Введение ](https://youtu.be/pn5myCmpV2U)
 - [    00:11:22  Функция объявление (Declaration)](https://youtu.be/pn5myCmpV2U)
 - [    00:12:46  Функция выражение (Expression)](https://youtu.be/pn5myCmpV2U)
 - [    00:16:07  Лямбда-выражение (Lambda expression) или функция-стрелка (Arrow function) ](https://youtu.be/pn5myCmpV2U)
@@ -27,9 +24,8 @@ https://dt-test-task.geka412315.now.sh/
 - [    01:08:41  Замыкание: chainning   ](https://youtu.be/pn5myCmpV2U)
 - [    01:11:55  Замыкание: summator  ](https://youtu.be/pn5myCmpV2U)
 - [    01:14:16  Замыкание: recursion](https://youtu.be/pn5myCmpV2U)
-,
-    ## Частичное применение и каррирование в JavaScript ( Partial application )
-    - [00:00:00  Замыкание  ](https://youtu.be/ND8KQ5xjk7o)
+## Частичное применение и каррирование в JavaScript ( Partial application )
+- [00:00:00  Замыкание  ](https://youtu.be/ND8KQ5xjk7o)
 - [        00:04:54  Лямбда- функция ](https://youtu.be/ND8KQ5xjk7o)
 - [        00:06:06  Метод  bind  ](https://youtu.be/ND8KQ5xjk7o)
 - [        00:08:30  Абстрагированный пример функции   ](https://youtu.be/ND8KQ5xjk7o)
@@ -47,9 +43,8 @@ https://dt-test-task.geka412315.now.sh/
 - [        00:54:29  Композиция с n - функциями, при помощи рекурсии](https://youtu.be/ND8KQ5xjk7o)
 - [        00:57:40  Композиция асинхронных функций  ](https://youtu.be/ND8KQ5xjk7o)
 - [        01:01:27  Обобщение](https://youtu.be/ND8KQ5xjk7o)
-,
-    ## Функции высшего порядка, колбеки, события на JavaScript (HigherOrderFunctions, callbacks, events)
-    - [00:00:00  Определение ](https://youtu.be/1vqATwbGHnc)
+## Функции высшего порядка, колбеки, события на JavaScript (HigherOrderFunctions, callbacks, events)
+- [00:00:00  Определение ](https://youtu.be/1vqATwbGHnc)
 - [            00:02:03  Математическая функция ](https://youtu.be/1vqATwbGHnc)
 - [            00:05:57  Функция обратного вызова (callback) ](https://youtu.be/1vqATwbGHnc)
 - [            00:09:33  Замыкание ](https://youtu.be/1vqATwbGHnc)
@@ -69,9 +64,8 @@ https://dt-test-task.geka412315.now.sh/
 - [            00:53:45  Event-imitter  ](https://youtu.be/1vqATwbGHnc)
 - [            00:57:48  Deferred object (отложенный объект)](https://youtu.be/1vqATwbGHnc)
 - [            01:01:31  Errors](https://youtu.be/1vqATwbGHnc)
-,
-    ## Примеси, обертки, декораторы, мемоизация в JavaScript (Wrappers)
-    - [00:00:00  Синхронная функция-обертка  ](https://youtu.be/oRQ0kQr1N-U)
+## Примеси, обертки, декораторы, мемоизация в JavaScript (Wrappers)
+- [00:00:00  Синхронная функция-обертка  ](https://youtu.be/oRQ0kQr1N-U)
 - [            00:02:55  Синхронная универсальная функция-обертка   ](https://youtu.be/oRQ0kQr1N-U)
 - [            00:08:28  Асинхронная универсальная функция-обертка  ](https://youtu.be/oRQ0kQr1N-U)
 - [            00:15:50  Синхронная функция-обертка, которая добавляет поведение (timeout)](https://youtu.be/oRQ0kQr1N-U)
@@ -96,9 +90,8 @@ https://dt-test-task.geka412315.now.sh/
 - [            01:25:35  Асинхронная мемоизация ](https://youtu.be/oRQ0kQr1N-U)
 - [            01:31:10  Преобразование аргументов и ключей в  hash-функцию](https://youtu.be/oRQ0kQr1N-U)
 - [            01:33:32  Реализация сложной мемоизации](https://youtu.be/oRQ0kQr1N-U)
-,
-    ## Чеининг функций и объектов, обработка ошибок в JavaScript
-    - [00:00:00  Введение ](https://youtu.be/PfuEfIiLX34)
+## Чеининг функций и объектов, обработка ошибок в JavaScript
+- [00:00:00  Введение ](https://youtu.be/PfuEfIiLX34)
 - [            00:01:10  Чеининг через синтаксис вызова функций  ](https://youtu.be/PfuEfIiLX34)
 - [            00:02:12  Prototype  ](https://youtu.be/PfuEfIiLX34)
 - [            00:05:45  Сlass](https://youtu.be/PfuEfIiLX34)
